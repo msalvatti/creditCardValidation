@@ -28,6 +28,8 @@ npm install
 
 To run the application, execute the following command:
 
+npm build
+
 npm start
 
 ## Project Tests
