@@ -12,7 +12,7 @@ Welcome to the credit card number validation Luhn algorithm project.
 
 This project was developed to show how to validate credit card numbers with the Luhn algorithm.
 
-It has a frontend developed in Next 14, ChakraUI and two backends, one with Nest and the other with Express. 
+It has a frontend developed in Next 14, React 18, ChakraUI and two backends, one with Nest and the other with Express. 
 
 Two backends were developed to showcase Nest and Express technologies. Only one backend should be run at a time, as both have the same function, the objective was to demonstrate knowledge in both stacks.
 
@@ -20,7 +20,7 @@ Two backends were developed to showcase Nest and Express technologies. Only one 
 
 This application includes the following features:
 
-- Frontend developed in Next 14, ChakraUI and Typescript, which accesses the backend API to validate the credit card number.
+- Frontend developed in Next 14, React 18, ChakraUI and Typescript, which accesses the backend API to validate the credit card number.
 - Backend developed in Nest and Typescript where we have automated tests developed with Jest.
 - Backend developed in Express and Typescript.
 
